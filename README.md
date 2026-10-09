@@ -12,7 +12,7 @@
 ## About Me
 
 - 🎮 I'm an aspiring **Game Developer**
-- 💻 I want to major in **Computer Science**
+- 💻 I want to major in **Computer Science** or **Computer Engineering**
 - 🏔 Based in **Denver, CO**
 - 🧑‍💻 Owner @ **Hulstrom Demon List**
 
