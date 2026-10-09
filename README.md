@@ -29,7 +29,6 @@
 <img src="https://skillicons.dev/icons?i=express" height="50" title="Express"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=supabase" height="50" title="Supabase"/>&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=vite" height="50" title="Vite"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=threejs" height="50" title="Three.js"/>&nbsp;&nbsp;
 </p>
 
 ## Tools I Know
