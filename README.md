@@ -16,8 +16,6 @@
 - 🏔 Based in **Denver, CO**
 - 🧑‍💻 Owner @ **Hulstrom Demon List**
 
-PS: I'm on a big brea
-
 ## Languages, Frameworks, and Libraries I Know
 
 <p align="left">
