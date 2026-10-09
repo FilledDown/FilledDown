@@ -1,5 +1,5 @@
-<h1 align="center">FilledDown</h1>
-<h3 align="center">Filled-Down • Denver, Colorado</h3>
+<h1 align="center">Rayan</h1>
+<h3 align="center">Denver, Colorado</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=+Developer;+Computer+Science;+Creating+Systems;+Startup;+other+stuff+ig+idrk+%2B+Code+%3D+Balance">
@@ -14,7 +14,7 @@
 - 🎮 I'm an aspiring **Game Developer**
 - 💻 I want to major in **Computer Science** or **Computer Engineering**
 - 🏔 Based in **Denver, CO**
-- 🧑‍💻 Owner @ **Hulstrom Demon List**
+- 🧑‍💻 Owner @ **Roblox Development Toolkit**
 
 ## Languages, Frameworks, and Libraries I Know
 
