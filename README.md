@@ -1,4 +1,4 @@
-<h1 align="center">Rayan</h1>
+<h1 align="center">Rayan Soufiani</h1>
 <h3 align="center">Denver, Colorado</h3>
 
 <p align="center">
