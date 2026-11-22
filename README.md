@@ -14,7 +14,6 @@
 - 🎮 I'm an aspiring **Game Developer** / **AI Engineer**
 - 💻 I want to major in **Computer Science (AI)** or **Computer Engineering**
 - 🏔 Based in **Denver, CO**
-- 🧑‍💻 Owner @ **Roblox Development Toolkit**
 
 ## Languages, Frameworks, and Libraries I Know
 
